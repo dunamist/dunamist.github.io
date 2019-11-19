@@ -3,5 +3,3 @@ description: 人不可有傲气，但不可无傲骨。
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
