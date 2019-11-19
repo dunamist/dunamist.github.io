@@ -1,6 +1,6 @@
 title: Dunamist
 description: 人不可有傲气，但不可无傲骨。
-baseurl: dunamist.github.io
+baseurl: https://github.com/dunamist/dunamist.github.io
 
 # Build settings
 theme: minima
