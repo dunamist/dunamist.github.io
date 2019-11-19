@@ -1,8 +1,8 @@
 # Build settings
 theme: minima
 
-# 博客名称。在“name: Dunamist”中，冒号后面的空格不可省略
-name: Dunamist
+# 博客名称。在“title: Dunamist”中，冒号后面的空格不可省略
+title: Dunamist
 
 # 描述
 description: 人不可有傲气，但不可无傲骨
