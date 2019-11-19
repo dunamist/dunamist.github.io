@@ -1,5 +1,20 @@
-title: Dunamist
-description: 人不可有傲气，但不可无傲骨。
-
 # Build settings
 theme: minima
+
+# 博客名称。在“name: Dunamist”中，冒号后面的空格不可省略
+name: Dunamist
+
+# 描述
+description: 人不可有傲气，但不可无傲骨
+
+# 社交网络链接
+footer-links: 
+  github: dunamist
+
+# 站点页脚的文字
+footer-text: 人不可有傲气，但不可无傲骨。
+
+# 使用以下插件
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
