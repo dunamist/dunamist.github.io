@@ -13,9 +13,9 @@ Old age should burn and rave at close of day;
 
 Rage, rage against the dying of the light.
 
----
-
 <!-- more -->
+
+---
 
 Though wise men at their end know dark is right,
 
