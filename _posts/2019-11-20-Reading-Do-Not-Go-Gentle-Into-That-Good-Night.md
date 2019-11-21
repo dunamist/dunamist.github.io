@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do Not Go Gentle Into That Good Night"
+title: "Do Not Go Gentle into That Good Night"
 date: 2019-11-20 15:10:00 +0800
 categories: 
  - Reading

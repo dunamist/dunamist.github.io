@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In me, past, present, future meet"
+title: "In Me, Past, Present, Future Meet"
 date: 2019-11-21 13:50:00 +0800
 categories: 
  - Reading
