@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "推荐"
+title: "软件"
 date: 2019-11-22 16:00:00 +0800
 categories: 
- - Recommendation
+ - 推荐
 ---
 
 These are my favorites.

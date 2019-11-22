@@ -3,7 +3,7 @@ layout: post
 title: "Youth Is Fading Away"
 date: 2019-11-20 15:00:00 +0800
 categories: 
- - Reading
+ - 阅读
 ---
 
 "Youth" seems to be fading away in my life, only leaving me some unforgettable and cherished memories. Something that we used to think would last forever in our lives had actually vanished in a second before we realized it. Those who we used to deeply love or miss have now become the most acquainted strangers. Our once pure and beautiful dream is gradually fading away with time passing by... This is youth, which is indeed an endless cycle from familiarity to strangeness, and from strangeness to familiarity, until the curtain of our youth is closing off little by little, along with our childish fantasies.

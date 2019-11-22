@@ -3,7 +3,7 @@ layout: post
 title: "On Motes and Beams"
 date: 2019-11-21 14:40:00 +0800
 categories: 
- - Reading
+ - 阅读
 ---
 
 It is curious that our own offenses should seem so much less heinous than the offenses of others.
