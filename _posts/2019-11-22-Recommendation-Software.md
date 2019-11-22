@@ -6,7 +6,7 @@ categories:
  - 推荐
 ---
 
-These are my favorites.
+These are my favorite softwares.
 
 <!-- more -->
 
