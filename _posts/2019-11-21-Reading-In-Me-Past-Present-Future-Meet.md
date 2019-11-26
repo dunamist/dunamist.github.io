@@ -3,7 +3,7 @@ layout: post
 title: "In Me, Past, Present, Future Meet"
 date: 2019-11-21 13:50:00 +0800
 categories: 
- - 阅读
+ - Reading
 ---
 
 To hold long chiding conference.  

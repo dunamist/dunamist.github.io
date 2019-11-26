@@ -3,7 +3,7 @@ layout: post
 title: "Solitude"
 date: 2019-11-21 14:30:00 +0800
 categories: 
- - 阅读
+ - Reading
 ---
 
 I find it wholesome to be alone the greater part of the time.

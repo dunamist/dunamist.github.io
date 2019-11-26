@@ -3,7 +3,7 @@ layout: post
 title: "软件"
 date: 2019-11-22 16:00:00 +0800
 categories: 
- - 推荐
+ - Recommendation
 ---
 
 These are my favorite softwares.

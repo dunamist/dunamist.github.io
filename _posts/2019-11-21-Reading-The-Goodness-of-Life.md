@@ -3,7 +3,7 @@ layout: post
 title: "The Goodness of Life"
 date: 2019-11-21 14:20:00 +0800
 categories: 
- - 阅读
+ - Reading
 ---
 
 Though there is much to be concerned about, there is far, far more for which to be thankful. Though life’s goodness can at times be overshadowed, it is never outweighed.
