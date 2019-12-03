@@ -355,6 +355,11 @@ custom_logo:
 # https://github.com/chriskempson/tomorrow-theme
 highlight_theme: normal
 
+
+reward_comment: 您的支持将鼓励我继续创作！
+wechatpay: /assets/images/Reward/wechat.png
+alipay: /assets/images/Reward/alipay.png
+
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
