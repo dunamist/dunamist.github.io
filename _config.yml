@@ -256,7 +256,7 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  #position: left
+  position: left
   #position: right
 
   # Sidebar Display, available value:
@@ -265,9 +265,9 @@ sidebar:
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
   #display: post
-  #display: always
+  display: always
   #display: hide
-  display: remove
+  #display: remove
 
   # Sidebar offset from top menubar in pixels.
   offset: 12
